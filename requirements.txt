@@ -6,7 +6,7 @@ langchain-anthropic==0.2.3
 gradio==5.4.0
 google-cloud-aiplatform==1.70.0
 langchain-google-vertexai==2.0.3
-langgraph==0.2.35
+langgraph==0.2.52
 langsmith==0.1.132
 langchain_google_community==2.0.1
 google-cloud-discoveryengine==0.13.1
@@ -22,3 +22,4 @@ langchain_pinecone==0.2.0
 sentence-transformers==3.2.1
 langgraph-cli[inmem]==0.1.55
 openai==1.57.0
+pydantic==2.9.2
