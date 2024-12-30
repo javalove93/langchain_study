@@ -15,6 +15,7 @@ wikipedia==1.4.0
 google-search-results==2.4.2
 youtube-search==2.1.2
 chromadb==0.5.15
+faiss_cpu==1.9.0
 langchain-chroma==0.1.4
 datasets==3.1.0
 pinecone==5.3.1
