@@ -3,7 +3,7 @@ langchain-community==0.3.3
 langchain_openai==0.2.1
 langchain-google-genai==2.0.1
 langchain-anthropic==0.2.3
-gradio==5.4.0
+gradio==5.21.0
 google-cloud-aiplatform==1.70.0
 google-genai==1.5.0
 langchain-google-vertexai==2.0.3
