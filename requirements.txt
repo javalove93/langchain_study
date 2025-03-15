@@ -25,8 +25,8 @@ sentence-transformers==3.2.1
 langgraph-cli[inmem]==0.1.55
 openai==1.57.0
 pydantic==2.9.2
-keras==3.8.0
-keras-hub==0.18.1
-keras-nlp==0.18.1
-kagglehub==0.3.6
-tensorflow==2.18.0
+# keras==3.8.0
+# keras-hub==0.18.1
+# keras-nlp==0.18.1
+# kagglehub==0.3.6
+# tensorflow==2.18.0
